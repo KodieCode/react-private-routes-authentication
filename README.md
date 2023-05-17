@@ -1,10 +1,10 @@
 # Kodie Tutorials
 
-For more code and video walkthroughs, please consider subscribing to the Youtube channel [https://www.youtube.com/@kodiecode] (https://www.youtube.com/@kodiecode)
+For more code and video walkthroughs, please consider subscribing to the Youtube channel https://www.youtube.com/@kodiecode
 
 ## How to create Private Routes and Authentication with React Router V6
 
-For a video walkthrough of this code, what is does and why, please visit [https://youtu.be/q94v5AhgrW4] (https://youtu.be/q94v5AhgrW4)
+For a video walkthrough of this code, what is does and why, please visit https://youtu.be/q94v5AhgrW4
 
 ## What does this do?
 
