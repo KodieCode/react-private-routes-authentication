@@ -1,0 +1,83 @@
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+.header h1 {
+  text-align: center;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.header p {
+  text-align: center;
+}
+
+.header .logo {
+  text-align: center;
+}
+
+.header .logo img {
+  cursor: pointer;
+  width: 100px;
+}
+
+.menu {
+  background-color: #000;
+  text-align: center;
+  padding: 15px 0;
+}
+
+.menu .menuItem {
+  display: inline-block;
+  margin: 0 30px;
+}
+
+.menu .menuItem a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.page {
+  padding: 30px;
+}
+
+.page h2 {
+  text-align: center;
+}
+
+.page p {
+  text-align: center;
+}
+
+.inputs .input {
+  text-align: center;
+}
+
+.inputs .input input {
+  height: 30px;
+  width: 300px;
+  margin: 5px 0;
+}
+
+.inputs .button {
+  text-align: center;
+}
+
+.inputs .button button {
+  background-color: #555;
+  border: none;
+  padding: 15px 30px;
+  color: #fff;
+  width: 308px;
+  margin: 10px 0;
+}
+
+.error {
+  background-color: red;
+  width: 280px;
+  margin: 5px 0;
+  margin: 0 auto;
+  padding: 15px;
+  color: #fff;
+}
